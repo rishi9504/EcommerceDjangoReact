@@ -1,6 +1,6 @@
 # PropShop Ecommerce Website With Django + React
 
-Live Demo can be viewed at 
+
 
 
 

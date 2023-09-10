@@ -1,4 +1,6 @@
 #  Ecommerce Website With Django + React
+## This application is made following the tutorial of https://www.udemy.com/course/django-with-react-an-ecommerce-website/ 
+## created by Dennis Ivy/ Brad Traversy
 
 
 

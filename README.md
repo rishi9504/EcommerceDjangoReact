@@ -37,8 +37,8 @@
 * 2 - npm install
 
 # If you are having issues:
-* with admin panel:
-      * Remove all the files except init.py in the migrations folder
-      * Run python manage.py makemigrations
-      * Run python manage.py migrate
-      * Run python manage.py createsuperuser and use the credentials used there for admin panel login
+## With admin panel:
+* Remove all the files except init.py in the migrations folder
+* Run python manage.py makemigrations
+* Run python manage.py migrate
+* Run python manage.py createsuperuser and use the credentials used there for admin panel login
